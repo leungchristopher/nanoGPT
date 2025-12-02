@@ -1,0 +1,375 @@
+0.841281 M parameters
+step 0: train loss 4.2148, val loss 4.2130
+step 100: train loss 2.6589, val loss 2.6628
+step 200: train loss 2.5444, val loss 2.5449
+step 300: train loss 2.4962, val loss 2.5035
+step 400: train loss 2.4683, val loss 2.4710
+step 500: train loss 2.4453, val loss 2.4521
+step 600: train loss 2.4328, val loss 2.4423
+step 700: train loss 2.4193, val loss 2.4236
+step 800: train loss 2.3801, val loss 2.4027
+step 900: train loss 2.3436, val loss 2.3662
+step 1000: train loss 2.2874, val loss 2.3204
+step 1100: train loss 2.2300, val loss 2.2679
+step 1200: train loss 2.1654, val loss 2.2146
+step 1300: train loss 2.1104, val loss 2.1682
+step 1400: train loss 2.0335, val loss 2.1082
+step 1500: train loss 1.9828, val loss 2.0728
+step 1600: train loss 1.9230, val loss 2.0305
+step 1700: train loss 1.8784, val loss 2.0050
+step 1800: train loss 1.8476, val loss 1.9756
+step 1900: train loss 1.8114, val loss 1.9576
+step 2000: train loss 1.7883, val loss 1.9405
+step 2100: train loss 1.7546, val loss 1.9126
+step 2200: train loss 1.7343, val loss 1.8998
+step 2300: train loss 1.7080, val loss 1.8807
+step 2400: train loss 1.6868, val loss 1.8613
+step 2500: train loss 1.6754, val loss 1.8541
+step 2600: train loss 1.6629, val loss 1.8297
+step 2700: train loss 1.6545, val loss 1.8205
+step 2800: train loss 1.6398, val loss 1.8118
+step 2900: train loss 1.6300, val loss 1.8114
+step 3000: train loss 1.6214, val loss 1.7973
+step 3100: train loss 1.6138, val loss 1.7920
+step 3200: train loss 1.5987, val loss 1.7747
+step 3300: train loss 1.5882, val loss 1.7771
+step 3400: train loss 1.5754, val loss 1.7511
+step 3500: train loss 1.5765, val loss 1.7674
+step 3600: train loss 1.5715, val loss 1.7587
+step 3700: train loss 1.5597, val loss 1.7359
+step 3800: train loss 1.5545, val loss 1.7384
+step 3900: train loss 1.5447, val loss 1.7331
+step 4000: train loss 1.5423, val loss 1.7237
+step 4100: train loss 1.5296, val loss 1.7258
+step 4200: train loss 1.5278, val loss 1.7312
+step 4300: train loss 1.5168, val loss 1.7091
+step 4400: train loss 1.5175, val loss 1.7079
+step 4500: train loss 1.5166, val loss 1.7137
+step 4600: train loss 1.5098, val loss 1.6983
+step 4700: train loss 1.5020, val loss 1.6987
+step 4800: train loss 1.4924, val loss 1.6990
+step 4900: train loss 1.4989, val loss 1.6950
+step 4999: train loss 1.4921, val loss 1.6831
+
+With his frience! Keep, Clo, ling
+Keepassure we' on see, and but I seoe
+Hole couse, thou way mend firtuous will the foorss of tree
+Romeo a lifirm'd: Verid join'd dost so made nare
+Not heaven of firs-poor's nown of her beard, as
+mind uplus poider in full, rose we
+Deloud no sthat senge Eare man.
+
+FRIANA:
+Tuches come his dison a qurother.
+
+CAPULET:
+Time bein palf dea of the matter'st.
+But Violout strain irn on; burse
+Fend not panty ot music, absiswers
+Clains, all panuant can entrave as than agot delaps.
+
+FRIAR AUMERLE:
+Nay's, saids fustre the theselt of CtmLong of his spick; stat,
+Whit you the shalts, as do you dust they booughter I, and toogue.
+Tis it go the seal: men?
+
+ANTIYBALT:
+Styball shed
+Caltnedom eye a tleave sfair, ut I lot of or,
+That'st me to upon it spent meethinks. I am a hee
+Nother! Ro an.
+
+AUFELDWARD:
+Lord teal brack in this exceiving; which it us died they somet.
+
+Lord Musin of Exenatian! he may no:'
+I' in heads, we weal of honour to to eyes, and live,
+For that thred nofinds ladink unto had flighted the vowalicgio the hoard.
+
+DUKE Ox'st asterning sorroum ingharink,
+Be this with-from the sire chis stirth,
+To suin.
+I shall I haw that with make you brie!
+Thou broting for of xeaky, it make met think tot curoble
+Thy silicsion erey instrums onlemly thyselfs,
+Was her hangetions body wherefore be roison.
+For mark blave hears, fair, le!
+And ere gener: is no of might she claimsely
+Disport, and swith all comper honour hofil this fimes
+Ah commost timy gave ustrys illings that fell! I
+which he in sen, in us clume's fate sorrowdermair becomed
+or she fromold both there's to'erway moth I did way;
+In the trume: I am afach'd, an enought any any own.
+
+YORK:
+As servasteregedes thee hall as peaces.
+
+WARWICK:
+Had sayss? Let fares your Movird's dow'd,
+Atering this inst littingers Is it it a world
+Whunts will I hlm my falond's doly world?
+A fall slike?
+
+WARWICK:
+Glo not out I shild I not henmen?
+Now! how that she su; be your a mastly mast,
+The made way beards lif the in yous alr thoughter and your are,
+Or for homisenter more yet is Maistle the is morthumish, whith though
+There: fall, this wife, I dod hear stite thith
+at not: and upound numerry of your chradel;
+And, praill they once a lauds more a turful furdent ame wir tong-lose
+I do try do thou and rance: to hurdll Lise,
+My men's spity God's in Rito buck, or with ther
+The ware you blove, therein news inde nease;
+And dother for Edwars ' meem in rayss,
+And his and fill Gloucgerland; and ne, letter
+That see tobe you cousa'd be would outy aim;
+To some that me! I am nor treec sound, still caps and
+But this quastanchis kind; I and beatials brey with bodshessel Suppirace,
+Morcius it I maid: this out, sir, there stomes me
+Twith may sto't is reces him of a merting; hoist us rt;
+'twere's fair us ill I plex all
+And I enpel'tle, are--dry
+How we lad much hamaking; ut crist but aliver:
+Thou we belitte,--blood hath busin and noa stret:
+I am well ike you? My out night wirs it delin!
+The untilo King I from name neir; or tybact's augh
+herthumbling me to shame a firther.
+
+CLIO:
+Condicellent fappy thy of an most: pid
+there gard noss, the is consop that's live must and like stript
+seembmy and furved the shoest weelow suchearly
+As fried nowfund nond fior
+All on thrdlings none le end joice up
+Nor slame's head, by to I rece; by loves.
+
+GLOUCESTER:
+Forsaw, he the invills amayerns: ndaught Bagod!
+
+DUKE OF YORK:
+But need, based with to may drowns and hall;
+And your fair wall, ran acce; boy:
+Thow marratic'd brid that I shousin blume
+Of wite shicharingreelams the valinish fations awards;
+Cry Claugard treassience; to I make wease
+Fram beats thy dise of than the spurpeintily. To loin:
+Prart me my bruthorper abot despty,
+Which fie our it are broth hat ort there unto fli in head.
+Let this to good from Yet to housbale
+Unckater'd me thy lib; uself thouzed with vill
+There corted uncring crus or moretigngerbent what seald-no om heaves I bid top
+Let be thyself: they may
+had is cov for mests ibpotherisee with love as as lived hile.
+
+ANBELLA:
+Wence, my being, all-brother in oursel to theel you, the gend:
+It am of I wilt be mavine: so unay
+And Clifford'd; good me mase nothing my boours sake:
+Be.
+
+MERDIUS:
+What it t's but this naturets with mercy:
+The he, is again I sain, well, or make have
+Kinghal ste meatiston whith is sumblests now
+As the allour
+Accunser mireds fishy a airstion his voisond,
+And not larer abound warm for.
+The sort equide the han soul
+That'd for ended, coulduman, and old look,
+With and I delives, his-him ill seecrier;
+But it if you revor brother'd, and outh dish thate:
+Hoic ligh nosssice or in thiss is deaden andly diss;
+And upase of they are the jocess of to besidier,
+Fall met all surness good chind
+look sidfieren. If clab too bits equeen, grastoretwishys
+St niughtin'd award'st, sain kingSs the glow,
+Frience, and bring swas then, in asuddonter's crifuriff--datchircy
+Hath my soft-me away, Camillicsasions ank tors;
+The Turtion.
+
+WARWICCAT:
+Mail thy from and shalt. Sonsing.
+Tyrant:
+We but therew, to be say, York, his awish
+A lod appess wlow, my with subs mercy, I, bree a shad uname
+Wither moable self.
+
+SICIA:
+That's thive, inst you wall praye on were is thy
+do more ordesfair that lease ourses, gityraces him.
+
+QUEEN VINCENTIO:
+Nay, make not stew, thy poit off. Nowe self.
+
+KING RICHARD II:
+See you thee hasted tot abourin up mysel I on that,
+You double at though thoubt e bid
+Unti des: and speech to ppreveceent
+Ah, thou wrons, good too me,
+Thou let's thish, belives on, which from clace:
+Or that To Henry thine milded. Thou?
+Tolds Migardom though me, livess is of Enot
+Rold Edward, lamby; this no? he susilliabs.
+Sir, that he shald arreds so wort;
+He away me; hate there he cont.
+He owill with he in armeding, done I taier.
+
+But henr:
+Let be a duke briefaspece her; when I
+Wast. O from ourshall plame me womb, not their that
+Mosther extuour Grievos a blook!
+Or come will servant he serfour-chid tows with ther I:
+Thund ndo one shaame his cray's high them thee.
+
+FLOYtER:
+By think love year'st or his visio
+It if as to gooder treter, that up.
+Sh ylban this taliciouriple, for
+To they marke each'd proftes, to do head were themsem dorspit
+fall yound senough of a ndeam,
+Do con oinces own Edward, and here ther lults the mastithes willdrer-fore
+For the king pardic, as sist dam sound,
+Alard trants the aufirted of with our?
+
+CAPULNALET:
+Votaes thy dite Marcy.
+Come, madam, so findangey,
+Youw me thym is trink'd vance:
+My fair-frece ope nod, all on him thes.
+
+CAMILLO:
+And, frie, bree stone office?
+Are they is father, ibelionce's brath,
+gaidy! I had havence mine when me is villains
+accustisured ange. York two thurged blook
+Twas voice ordoins as dight
+dedlergemity of be doublimiust on,
+Autone my hone I uyour stail, ift to f trimely
+Anought notber'd prone smate this new thing up there,
+Thale I may they talolyin the stwory in that clone.
+
+PRINCE EDWARD:
+O, I no vever we bease,
+As break. May ady them; madam I havoren that pursBicialge.
+And li-it dastly nothin.
+
+JULIET:
+'Tis you.
+
+WARI:
+Pace count saider your queen?
+
+QUEEN ELIET:
+Murder our the body.
+
+LAURENCE:
+Farewell, have burds air you, to full hows: t can you?
+
+MONTAbRonman:
+Why, mare int, you arms.
+
+CATEN:
+What no be you would be not thund thou we
+Thy roft madam that I should deadinessave myself,
+I had prizensove in wisfull so striship.
+
+LUCINIONUS:
+Wher you are bosh blid let since and thou all'd,
+Forturneds tzors, oursely which not he he her!
+His to somes your pew tonger: I have wortune
+Our go; like shonour didred the welless, tile,
+Woman you test thear daught lake
+Mess' grave case.
+
+Midster:
+Fair, fienour our me ince.
+
+
+Pewound Cition:
+Though hors museloness, is is speak: might liverces o't!
+
+BMIPSA:
+Are thle laws 'tis he grand of accessigge: truck that dids.
+But so smarck the condue of the leay,
+The thee spake when. This had maid claim hihets justist,
+Wis honourth not be a fried to your tong robe!
+
+BRAKENBURY:
+Should not to thee friends as ixesblesssoreld.
+
+HERBY:Perce: why soopes mercens kates? and he mercid!
+
+AUFIDIUS:
+We will his but out writh are fith his noble?
+
+CATESBY:
+Where the tas this micking, I hape'd time
+That some that in hers your eve
+Tonsingeral, what not misjesty.
+
+POLUCENTIO:
+Why we with ave watch ancianness?
+
+AUCIO:
+Will dives? norm; bot beaking, be doome; is as there
+the diess aspiticed thy doinate. Then to
+Nation most the no treep's fice. Are wouldive may parte
+You bends, the should tingle sucuself are not
+o't, a that is tell-prether.
+
+Erery:
+nd is god hyour in son enous give.
+
+CORIOLANUS:
+Unded me, feit not hasellast that contert.
+
+CORIOLUMBELLANUS:
+I am I am thee he confesseld; which gentle you
+sham.
+
+ISABEdicklayer:
+Tybalians the pofe: make fairs.
+Yout this wardly, uncown? she
+new thou sheet, do livercer's lovecioor,
+My we on when with me, which need to the dothers' tates
+Stay the shall he glow'd would on his for conal larit
+Shictors it deather a deal.
+
+GLOUCEDS CALUS:
+So condedd be forb. Warwfull it, best.
+
+CAMILLO:
+To not our sir. Chardon.
+
+ANCAPULET:
+Nay, been upon this be sitche friencessel:
+Lad not thee would this, bit wearly know.
+That, not Richmolough now pen with father in inted sthous,
+Dige me aserion thy clote pall wit?
+Thin miniut thee mart bloody welling broth,
+The verniour men Were terry umberl it eyears;
+A kingling herelieves my will swards alame-darge, let's head dose!
+
+FLather:
+So I have you desire to sound alives fortunst.
+O, angelo thin in power, your memises weed jous,
+Alosorriting of hant his, this see
+thy evenged of a lawtocker it. He, sir Nocompn trotes
+adwardly, for men; then ill we do hor to for and agail.
+
+Lord OF
+Son:
+Forths gaptrer; ondurst with a nd const of but,
+The bet, iride it brick in ndeep's which the-canners
+Selaint thou of I nobling, give other his fitted a times.
+Good you; thou leave, that, state an'st, worsComing manphes fard.
+
+ONTIOLANUS:
+Kece, cla come.
+Tared Denatoor; indardosblitiou seed
+That mark'd with sacks a woe hold we ser core thee-such
+Twe apting t.
+
+SeemOn:
+Then may, you. The fight down would thou
